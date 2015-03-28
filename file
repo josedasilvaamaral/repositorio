@@ -1,11 +1,3 @@
-0	./file
-4	./.git/refs/heads
-4	./.git/refs/tags
-12	./.git/refs
-4	./.git/hooks/prepare-commit-msg.sample
-4	./.git/hooks/applypatch-msg.sample
-4	./.git/hooks/update.sample
-4	./.git/hooks/commit-msg.sample
 8	./.git/hooks/pre-rebase.sample
 4	./.git/hooks/post-update.sample
 4	./.git/hooks/pre-commit.sample
@@ -14,6 +6,9 @@
 44	./.git/hooks
 4	./.git/config
 4	./.git/HEAD
+
+Hello world
+
 4	./.git/description
 4	./.git/branches
 4	./.git/objects/pack
